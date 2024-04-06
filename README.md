@@ -6,6 +6,7 @@ To run this application on your local machine, please follow these steps:
 
 Clone this repository using the following command:
 https://github.com/pranayainchwar/habit_tracker_daily
+Youtube Video : https://youtu.be/HAO_bdwY1D4
 
 Install the required dependencies using the following command:
 $ npm install 
